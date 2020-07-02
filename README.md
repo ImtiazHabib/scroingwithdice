@@ -9,3 +9,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 */
+![](game%20pic.PNG)
